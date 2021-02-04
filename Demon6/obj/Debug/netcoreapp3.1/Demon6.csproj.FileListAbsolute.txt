@@ -1,0 +1,13 @@
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.exe
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.deps.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.runtimeconfig.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.runtimeconfig.dev.json
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.dll
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\bin\Debug\netcoreapp3.1\Demon6.pdb
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.csprojAssemblyReference.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.AssemblyInfoInputs.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.AssemblyInfo.cs
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.csproj.CoreCompileInputs.cache
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.dll
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.pdb
+C:\Users\elisa.posani\Documents\Corso\Week2\Demon6\Demon6\obj\Debug\netcoreapp3.1\Demon6.genruntimeconfig.cache
